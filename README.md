@@ -1,5 +1,6 @@
 # Autonomous-Cars-on-IDD Detectron2
-We developed the "Autonomous-Cars-on-IDD Detectron2" project, which focuses on training an instance segmentation model using the IDD (Indian Driving Dataset)
+## 🌟 Overview
+The "Autonomous-Cars-on-IDD Detectron2" project, which focuses on training an instance segmentation model using the IDD (Indian Driving Dataset)
 dataset. The goal of this project is to enable autonomous cars to accurately detect and classify objects in real-world driving scenarios.
 
 By utilizing the IDD dataset, which contains a diverse collection of images captured from various driving perspectives, we trained a state-of-the-art instant
